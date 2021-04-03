@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="109327" started-at="2021-04-03T06:52:09Z" finished-at="2021-04-03T06:53:59Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="109327" started-at="2021-04-03T06:52:09Z" finished-at="2021-04-03T06:53:59Z">
+      <class name="com.Appium.Test.TCID_002">
+        <test-method status="PASS" signature="Testtwo(java.lang.String)[pri:0, instance:com.Appium.Test.TCID_002@57fffcd7]" name="Testtwo" duration-ms="71558" started-at="2021-04-03T06:52:09Z" data-provider="inputData" finished-at="2021-04-03T06:53:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hello]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testtwo -->
+        <test-method status="PASS" signature="Testtwo(java.lang.String)[pri:0, instance:com.Appium.Test.TCID_002@57fffcd7]" name="Testtwo" duration-ms="37663" started-at="2021-04-03T06:53:21Z" data-provider="inputData" finished-at="2021-04-03T06:53:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[#$$%^^]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testtwo -->
+      </class> <!-- com.Appium.Test.TCID_002 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
