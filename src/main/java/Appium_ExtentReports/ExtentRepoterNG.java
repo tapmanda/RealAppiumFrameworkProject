@@ -9,5 +9,15 @@ public class ExtentRepoterNG {
 	{
 		System.out.println("Testing Files Need to add");
 	}
+	@Test
+	public void ReportTest2()
+	{
+		System.out.println("Testing Files Need to add");
+	}
+	@Test
+	public void ReportTest3()
+	{
+		System.out.println("Testing Files Need to add");
+	}
 	
 }
